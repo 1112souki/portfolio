@@ -335,6 +335,8 @@ span {
 
   .IMG {
     margin-left: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
 
@@ -363,5 +365,9 @@ span {
   .works-product {
     margin-bottom: 50px;
     height: 600px;
+  }
+
+  .skils-container {
+    height: 1000px;
   }
 }
